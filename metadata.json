@@ -1,0 +1,7 @@
+{
+  "name": "Vilux Care",
+  "description": "A simple and beautiful health application to help you track your wellness goals, calculate your BMI, and get health tips from an AI assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
