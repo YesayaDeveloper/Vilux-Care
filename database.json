@@ -1,0 +1,75 @@
+
+[
+  {
+    "keywords": ["hello", "hi", "hey"],
+    "response": "Hello! I am the Vilux Care assistant. How can I help you with your wellness today?"
+  },
+  {
+    "keywords": ["headache"],
+    "response": "For a common headache, here are some verified steps:\n\n**1. Rest:** Find a quiet, dark room to relax.\n**2. Hydration:** Drink a full glass of water.\n**3. Mild Pain Relievers:** Over-the-counter options like ibuprofen or acetaminophen can be effective.\n\nIf your headache is severe, sudden, or accompanied by other symptoms like fever or dizziness, please seek medical attention immediately."
+  },
+  {
+    "keywords": ["cough"],
+    "response": "To soothe a cough, you can try these verified remedies:\n\n**1. Honey:** A teaspoon of honey can help coat the throat (not for children under 1).\n**2. Warm Liquids:** Tea, broth, or warm water can help soothe irritation.\n**3. Humidifier:** Using a cool-mist humidifier can add moisture to the air and ease coughing.\n\nIf a cough persists for more than two weeks or is accompanied by difficulty breathing, consult a healthcare professional."
+  },
+  {
+    "keywords": ["flu", "influenza"],
+    "response": "Managing flu symptoms typically involves:\n\n**1. Rest:** Your body needs significant rest to fight the virus.\n**2. Hydration:** Drink plenty of fluids like water, juice, and broth to prevent dehydration.\n**3. Fever Reduction:** Over-the-counter medications can help manage fever and aches.\n\nAntiviral drugs may be prescribed by a doctor in some cases. Always consult a professional for a proper diagnosis."
+  },
+  {
+    "keywords": ["cold", "sore throat", "runny nose"],
+    "response": "For a common cold, focus on these supportive measures:\n\n**1. Rest:** Allow your body to recover.\n**2. Hydration:** Drink plenty of water, herbal tea, or broth.\n**3. Symptom Relief:** Gargling with salt water can soothe a sore throat. Over-the-counter decongestants may help with a stuffy nose.\n\nMost colds resolve on their own. If symptoms are severe or last more than 10 days, it's a good idea to see a doctor."
+  },
+  {
+    "keywords": ["acne", "pimples", "zits"],
+    "response": "For mild acne, consider these general skincare tips:\n\n**1. Gentle Cleansing:** Wash your face twice a day with a mild cleanser and lukewarm water.\n**2. Avoid Popping:** Squeezing pimples can lead to scarring and infection.\n**3. Non-Comedogenic Products:** Use makeup and moisturizers labeled \"non-comedogenic,\" meaning they won't clog pores.\n\nFor persistent or severe acne, consulting a dermatologist is the best course of action for effective treatment."
+  },
+  {
+    "keywords": ["sunburn"],
+    "response": "To care for a mild sunburn:\n\n**1. Cool Down:** Take a cool bath or apply cool compresses to the affected area.\n**2. Moisturize:** Use a moisturizer that contains aloe vera to soothe the skin.\n**3. Hydrate:** Drink extra water to prevent dehydration.\n\nAvoid further sun exposure while your skin heals. For severe blistering or fever, seek medical help."
+  },
+  {
+    "keywords": ["stress", "anxious", "overwhelmed"],
+    "response": "Managing stress is important for overall health. Here are a few techniques:\n\n**1. Deep Breathing:** Practice slow, deep breaths to calm your nervous system.\n**2. Physical Activity:** Even a short walk can help clear your mind and reduce stress hormones.\n**3. Take Breaks:** Step away from the source of stress for a few minutes to reset.\n\nIf you feel overwhelmed by stress, speaking with a mental health professional can provide valuable support and strategies."
+  },
+  {
+    "keywords": ["sleep", "insomnia", "can't sleep"],
+    "response": "Improving sleep quality can have a big impact on your well-being. Try these tips:\n\n**1. Consistent Schedule:** Go to bed and wake up around the same time every day, even on weekends.\n**2. Relaxing Routine:** Create a calming pre-sleep ritual, like reading a book or taking a warm bath.\n**3. Limit Screens:** Avoid phones, tablets, and computers an hour before bed, as the blue light can disrupt sleep.\n\nIf you have ongoing trouble sleeping, please consult with a healthcare provider."
+  },
+  {
+    "keywords": ["halo", "hai"],
+    "response": "Halo! Saya asisten Vilux Care. Ada yang bisa saya bantu dengan kesehatan Anda hari ini?"
+  },
+  {
+    "keywords": ["sakit kepala", "pusing"],
+    "response": "Untuk sakit kepala biasa, berikut beberapa langkah terverifikasi:\n\n**1. Istirahat:** Cari ruangan yang tenang dan gelap untuk bersantai.\n**2. Hidrasi:** Minum segelas penuh air putih.\n**3. Pereda Nyeri Ringan:** Obat bebas seperti ibuprofen atau parasetamol bisa efektif.\n\nJika sakit kepala Anda parah, tiba-tiba, atau disertai gejala lain seperti demam atau pusing, harap segera cari pertolongan medis."
+  },
+  {
+    "keywords": ["batuk"],
+    "response": "Untuk meredakan batuk, Anda bisa mencoba pengobatan terverifikasi berikut:\n\n**1. Madu:** Satu sendok teh madu dapat membantu melapisi tenggorokan (tidak untuk anak di bawah 1 tahun).\n**2. Cairan Hangat:** Teh, kaldu, atau air hangat dapat membantu meredakan iritasi.\n**3. Humidifier:** Menggunakan pelembap udara dapat menambah kelembapan udara dan mengurangi batuk.\n\nJika batuk berlanjut lebih dari dua minggu atau disertai kesulitan bernapas, konsultasikan dengan tenaga kesehatan profesional."
+  },
+  {
+    "keywords": ["demam", "meriang"],
+    "response": "Mengatasi gejala demam biasanya meliputi:\n\n**1. Istirahat:** Tubuh Anda memerlukan banyak istirahat untuk melawan virus.\n**2. Hidrasi:** Minum banyak cairan seperti air, jus, dan kaldu untuk mencegah dehidrasi.\n**3. Penurun Panas:** Obat bebas dapat membantu mengatasi demam dan nyeri.\n\nObat antivirus mungkin diresepkan oleh dokter dalam beberapa kasus. Selalu konsultasikan dengan profesional untuk diagnosis yang tepat."
+  },
+  {
+    "keywords": ["pilek", "sakit tenggorokan", "hidung meler"],
+    "response": "Untuk pilek biasa, fokus pada langkah-langkah suportif ini:\n\n**1. Istirahat:** Biarkan tubuh Anda pulih.\n**2. Hidrasi:** Minum banyak air, teh herbal, atau kaldu.\n**3. Meredakan Gejala:** Berkumur dengan air garam dapat menenangkan sakit tenggorokan. Dekongestan yang dijual bebas dapat membantu mengatasi hidung tersumbat.\n\nKebanyakan pilek akan sembuh dengan sendirinya. Jika gejala parah atau berlangsung lebih dari 10 hari, sebaiknya temui dokter."
+  },
+  {
+    "keywords": ["jerawat"],
+    "response": "Untuk jerawat ringan, pertimbangkan tips perawatan kulit umum ini:\n\n**1. Pembersihan Lembut:** Cuci wajah Anda dua kali sehari dengan pembersih ringan dan air hangat.\n**2. Hindari Memencet:** Memencet jerawat dapat menyebabkan bekas luka dan infeksi.\n**3. Produk Non-Komedogenik:** Gunakan riasan dan pelembap berlabel \"non-comedogenic,\" yang berarti tidak akan menyumbat pori-pori.\n\nUntuk jerawat yang terus-menerus atau parah, berkonsultasi dengan dokter kulit adalah tindakan terbaik untuk pengobatan yang efektif."
+  },
+  {
+    "keywords": ["kulit terbakar matahari"],
+    "response": "Untuk merawat kulit yang terbakar matahari ringan:\n\n**1. Dinginkan:** Mandi air dingin atau kompres area yang terkena dengan kompres dingin.\n**2. Lembapkan:** Gunakan pelembap yang mengandung lidah buaya untuk menenangkan kulit.\n**3. Hidrasi:** Minum air ekstra untuk mencegah dehidrasi.\n\nHindari paparan sinar matahari lebih lanjut saat kulit Anda sembuh. Untuk lepuh yang parah atau demam, cari bantuan medis."
+  },
+  {
+    "keywords": ["stres", "cemas", "kewalahan"],
+    "response": "Mengelola stres penting untuk kesehatan secara keseluruhan. Berikut beberapa teknik:\n\n**1. Pernapasan Dalam:** Latih napas dalam yang lambat untuk menenangkan sistem saraf Anda.\n**2. Aktivitas Fisik:** Jalan kaki singkat pun dapat membantu menjernihkan pikiran dan mengurangi hormon stres.\n**3. Ambil Jeda:** Menjauhlah dari sumber stres selama beberapa menit untuk mengatur ulang.\n\nJika Anda merasa kewalahan oleh stres, berbicara dengan seorang profesional kesehatan mental dapat memberikan dukungan dan strategi yang berharga."
+  },
+  {
+    "keywords": ["tidur", "insomnia", "susah tidur"],
+    "response": "Meningkatkan kualitas tidur dapat berdampak besar pada kesehatan Anda. Coba tips ini:\n\n**1. Jadwal Konsisten:** Tidur dan bangun sekitar waktu yang sama setiap hari, bahkan di akhir pekan.\n**2. Rutinitas Santai:** Ciptakan ritual sebelum tidur yang menenangkan, seperti membaca buku atau mandi air hangat.\n**3. Batasi Layar:** Hindari ponsel, tablet, dan komputer satu jam sebelum tidur, karena cahaya biru dapat mengganggu tidur.\n\nJika Anda terus menerus mengalami kesulitan tidur, silakan berkonsultasi dengan penyedia layanan kesehatan."
+  }
+]

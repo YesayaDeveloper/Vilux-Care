@@ -1,0 +1,287 @@
+
+[
+  {
+    "keywords": ["sakit", "kurang sehat", "tidak enak badan"],
+    "response": "Tentu, saya turut prihatin. Agar saya bisa memberikan informasi yang lebih relevan, boleh tolong jelaskan gejala-gejala yang Anda rasakan?"
+  },
+  {
+    "keywords": ["tidur", "insomnia"],
+    "response": "Insomnia bisa diatasi dengan menjaga pola tidur teratur, mengurangi kafein, dan membuat suasana kamar tenang. Jika berlanjut, konsultasikan ke dokter."
+  },
+  {
+    "keywords": ["beringus", "hidung meler"],
+    "response": "Beringus biasanya disebabkan oleh pilek. Coba minum air hangat, banyak istirahat, dan gunakan uap hangat untuk melegakan hidung."
+  },
+  {
+    "keywords": ["batuk"],
+    "response": "Batuk ringan bisa diatasi dengan minum air hangat, madu, atau jahe. Hindari minuman dingin dan istirahat cukup."
+  },
+  {
+    "keywords": ["demam"],
+    "response": "Demam dapat diturunkan dengan minum banyak air, istirahat, dan kompres hangat. Jika suhu lebih dari 38.5°C dan tak turun, segera periksa ke dokter."
+  },
+  {
+    "keywords": ["sakit kepala", "pusing"],
+    "response": "Sakit kepala ringan dapat diatasi dengan istirahat, minum air putih, atau minum obat pereda nyeri bila perlu."
+  },
+  {
+    "keywords": ["sakit perut"],
+    "response": "Sakit perut ringan bisa diatasi dengan minum air hangat, hindari makanan pedas atau asam, dan istirahat. Jika nyeri parah, segera periksa dokter."
+  },
+  {
+    "keywords": ["diare"],
+    "response": "Diare dapat diatasi dengan minum oralit atau cairan elektrolit, hindari makanan berminyak, dan perbanyak cairan."
+  },
+  {
+    "keywords": ["sembelit", "susah BAB"],
+    "response": "Sembelit bisa diatasi dengan banyak makan buah, sayur, dan minum air putih. Olahraga ringan juga membantu."
+  },
+  {
+    "keywords": ["flu"],
+    "response": "Flu biasanya sembuh sendiri. Minum banyak air, istirahat, konsumsi vitamin C, dan gunakan masker agar tidak menular."
+  },
+  {
+    "keywords": ["nyeri otot"],
+    "response": "Nyeri otot bisa diredakan dengan kompres hangat, pijatan ringan, atau obat pereda nyeri bila perlu."
+  },
+  {
+    "keywords": ["sariawan"],
+    "response": "Sariawan dapat diatasi dengan berkumur air garam, hindari makanan pedas/asam, dan perbanyak vitamin C."
+  },
+  {
+    "keywords": ["mual"],
+    "response": "Mual bisa diredakan dengan minum air hangat, makan dalam porsi kecil tapi sering, dan hindari makanan berlemak."
+  },
+  {
+    "keywords": ["asam lambung", "maag"],
+    "response": "Asam lambung naik bisa diatasi dengan makan teratur, hindari kopi/pedas/asam, dan jangan langsung tiduran setelah makan."
+  },
+  {
+    "keywords": ["gatal", "alergi kulit"],
+    "response": "Gatal ringan dapat diatasi dengan menghindari pemicu alergi, mandi air dingin, dan gunakan lotion anti-gatal."
+  },
+  {
+    "keywords": ["sakit gigi"],
+    "response": "Sakit gigi bisa diringankan dengan berkumur air garam hangat, minum pereda nyeri, dan segera ke dokter gigi bila berlanjut."
+  },
+  {
+    "keywords": ["radang tenggorokan", "sakit tenggorokan"],
+    "response": "Radang tenggorokan dapat diatasi dengan minum air hangat, berkumur air garam, dan istirahat suara. Konsumsi obat pereda nyeri atau tablet hisap bisa membantu. Jika berlangsung lebih dari 7 hari atau disertai demam tinggi, segera periksakan ke dokter."
+  },
+  {
+    "keywords": ["migrain"],
+    "response": "Migrain ditangani dengan istirahat di ruangan tenang dan gelap, minum obat pereda nyeri seperti ibuprofen/paracetamol, dan menghindari pemicu (stres, kafein berlebihan, kurang tidur). Jika migrain sering kambuh, konsultasikan ke dokter untuk terapi pencegahan."
+  },
+  {
+    "keywords": ["asam urat"],
+    "response": "Asam urat ditangani dengan mengurangi makanan tinggi purin (jeroan, daging merah, seafood), perbanyak minum air putih, serta minum obat sesuai resep dokter. Kompres dingin pada sendi yang nyeri dapat membantu meredakan rasa sakit."
+  },
+  {
+    "keywords": ["hipertensi", "darah tinggi"],
+    "response": "Hipertensi perlu dikontrol dengan mengurangi garam, olahraga rutin, menjaga berat badan ideal, serta menghindari stres. Jika sudah terdiagnosis, minum obat antihipertensi sesuai anjuran dokter dan cek tekanan darah secara rutin."
+  },
+  {
+    "keywords": ["diabetes", "kencing manis"],
+    "response": "Diabetes dikelola dengan pola makan sehat rendah gula, olahraga teratur, menjaga berat badan, dan mengontrol kadar gula darah. Penderita harus rutin kontrol ke dokter dan mengonsumsi obat atau insulin sesuai anjuran medis."
+  },
+  {
+    "keywords": ["kolesterol tinggi"],
+    "response": "Kolesterol tinggi dapat diturunkan dengan mengurangi makanan berlemak jenuh, perbanyak serat, olahraga rutin, dan bila perlu konsumsi obat penurun kolesterol sesuai resep dokter."
+  },
+  {
+    "keywords": ["asma", "sesak napas"],
+    "response": "Asma ditangani dengan menghindari pemicu (debu, asap, dingin), menggunakan inhaler sesuai resep dokter, serta menjaga pola hidup sehat. Jika sesak napas berat atau inhaler tidak membantu, segera ke IGD."
+  },
+  {
+    "keywords": ["anemia", "kurang darah"],
+    "response": "Anemia ringan dapat diatasi dengan meningkatkan asupan zat besi (daging merah, bayam, kacang-kacangan), vitamin B12, dan asam folat. Jika anemia berat, diperlukan pengobatan medis termasuk suplementasi atau transfusi darah."
+  },
+  {
+    "keywords": ["masuk angin"],
+    "response": "Masuk angin bisa diatasi dengan istirahat cukup, minum minuman hangat, pijat ringan atau kerokan, serta menjaga tubuh tetap hangat. Jika disertai demam tinggi atau gejala berat, segera periksa ke dokter."
+  },
+  {
+    "keywords": ["vertigo"],
+    "response": "Vertigo dapat diredakan dengan duduk atau berbaring diam hingga pusing berkurang, minum cukup air, dan menghindari gerakan mendadak. Jika sering kambuh, periksakan ke dokter untuk mengetahui penyebabnya."
+  },
+  {
+    "keywords": ["jerawat"],
+    "response": "Jerawat ringan dapat diatasi dengan membersihkan wajah secara teratur, menghindari menyentuh wajah dengan tangan kotor, dan menggunakan obat jerawat yang mengandung benzoyl peroxide atau salicylic acid. Untuk jerawat parah, konsultasikan ke dokter kulit."
+  },
+  {
+    "keywords": ["asam urat", "gout"],
+    "response": "Gout ditangani dengan menghindari makanan tinggi purin, memperbanyak air putih, serta mengonsumsi obat antiinflamasi atau penurun asam urat sesuai resep dokter. Olahraga ringan juga membantu menjaga kesehatan sendi."
+  },
+  {
+    "keywords": ["varises"],
+    "response": "Varises dapat dikurangi dengan olahraga rutin, mengangkat kaki saat istirahat, menggunakan stocking kompresi, dan menjaga berat badan. Jika nyeri hebat atau memburuk, tindakan medis mungkin diperlukan."
+  },
+  {
+    "keywords": ["kutu air", "jamur kaki"],
+    "response": "Kutu air diobati dengan menjaga kaki tetap kering, sering mengganti kaus kaki, dan menggunakan salep antijamur. Hindari berbagi sandal/sepatu untuk mencegah penularan."
+  },
+  {
+    "keywords": ["wasir", "ambeien"],
+    "response": "Wasir bisa dikurangi dengan makan tinggi serat, minum banyak air, dan tidak menahan BAB. Kompres dingin atau obat oles dapat membantu meredakan nyeri. Jika parah, tindakan medis mungkin diperlukan."
+  },
+  {
+    "keywords": ["stroke ringan"],
+    "response": "Stroke ringan (TIA) butuh pemeriksaan medis segera. Pertolongan awal: tenangkan pasien, posisikan kepala lebih tinggi, jangan beri makan/minum jika sulit menelan. Pencegahan jangka panjang dengan kontrol tekanan darah, gula, kolesterol, dan pola hidup sehat."
+  },
+  {
+    "keywords": ["asam lambung kronis", "GERD"],
+    "response": "GERD ditangani dengan makan porsi kecil tapi sering, hindari kopi/pedas/asam, jangan langsung tiduran setelah makan, dan gunakan bantal tinggi saat tidur. Obat seperti antasida atau PPI bisa diresepkan dokter."
+  },
+  {
+    "keywords": ["bronkitis"],
+    "response": "Bronkitis akut ditangani dengan banyak minum cairan, istirahat, dan obat pereda batuk. Jika disertai sesak napas atau demam tinggi, segera periksa ke dokter karena bisa butuh antibiotik."
+  },
+  {
+    "keywords": ["sinusitis"],
+    "response": "Sinusitis ditangani dengan kompres hangat di wajah, inhalasi uap, minum cukup cairan, dan obat pereda nyeri. Jika sinusitis kronis, bisa butuh antibiotik atau tindakan medis."
+  },
+  {
+    "keywords": ["infeksi telinga", "otitis"],
+    "response": "Infeksi telinga menyebabkan nyeri, demam, atau gangguan pendengaran. Atasi dengan pereda nyeri dan hindari memasukkan benda ke telinga. Jika nyeri berat, periksakan ke dokter untuk antibiotik."
+  },
+  {
+    "keywords": ["konstipasi kronis"],
+    "response": "Konstipasi kronis butuh pola makan tinggi serat, cukup air, olahraga rutin, dan hindari menahan BAB. Jika tidak membaik, dokter dapat meresepkan obat pencahar atau terapi lanjutan."
+  },
+  {
+    "keywords": ["hepatitis"],
+    "response": "Hepatitis ditangani dengan istirahat, pola makan sehat, dan menghindari alkohol. Penderita perlu pemeriksaan dokter untuk menentukan jenis hepatitis dan terapi spesifik."
+  },
+  {
+    "keywords": ["malaria"],
+    "response": "Malaria butuh pengobatan medis dengan obat antimalaria. Pertolongan awal: istirahat cukup, banyak cairan, dan segera ke fasilitas kesehatan. Pencegahan dengan kelambu & obat profilaksis bila bepergian ke daerah endemik."
+  },
+  {
+    "keywords": ["tifus", "demam tifoid"],
+    "response": "Tifus ditangani dengan istirahat, banyak cairan, makan lunak, dan antibiotik sesuai resep dokter. Hindari makanan yang tidak higienis agar tidak kambuh."
+  },
+  {
+    "keywords": ["cacar air"],
+    "response": "Cacar air biasanya sembuh sendiri. Atasi dengan istirahat, minum cukup cairan, hindari menggaruk, dan gunakan obat gatal atau paracetamol. Jika ruam menyebar luas atau sesak, segera ke dokter."
+  },
+  {
+    "keywords": ["campak"],
+    "response": "Campak butuh istirahat, cairan cukup, vitamin A, dan obat penurun panas. Segera ke dokter bila ada sesak napas atau komplikasi. Vaksinasi sangat penting untuk pencegahan."
+  },
+  {
+    "keywords": ["kolik", "nyeri perut bayi"],
+    "response": "Kolik pada bayi bisa diredakan dengan memeluk bayi, pijat lembut perut, atau kompres hangat. Jika bayi terus menangis lebih dari 3 jam setiap hari, konsultasikan ke dokter anak."
+  },
+  {
+    "keywords": ["tenggelam", "hampir tenggelam"],
+    "response": "Pertolongan awal: segera keluarkan dari air, lakukan CPR bila tidak bernapas, posisikan kepala miring agar cairan keluar, dan segera bawa ke IGD."
+  },
+  {
+    "keywords": ["dehidrasi"],
+    "response": "Dehidrasi ditangani dengan minum air putih atau oralit. Pada kasus berat (pingsan, kebingungan, atau lemas parah), segera bawa ke IGD untuk cairan infus."
+  },
+  {
+    "keywords": ["keracunan makanan"],
+    "response": "Keracunan makanan ringan bisa diatasi dengan istirahat, banyak minum air, dan konsumsi makanan lembut. Jika muntah hebat, diare berdarah, atau dehidrasi, segera ke rumah sakit."
+  },
+  {
+    "keywords": ["rabies"],
+    "response": "Jika digigit hewan yang dicurigai rabies, segera cuci luka dengan sabun mengalir selama 15 menit, beri antiseptik, dan segera ke fasilitas kesehatan untuk vaksin rabies."
+  },
+  {
+    "keywords": ["HIV", "AIDS"],
+    "response": "HIV tidak bisa disembuhkan, tapi bisa dikendalikan dengan terapi antiretroviral (ARV). Penting menjaga pola hidup sehat, menghindari infeksi lain, dan kontrol rutin ke dokter."
+  },
+  {
+    "keywords": ["tuberkulosis", "TBC"],
+    "response": "TBC butuh pengobatan antibiotik khusus (OAT) selama minimal 6 bulan sesuai resep dokter. Jangan hentikan obat sebelum waktunya. Istirahat dan gizi seimbang sangat penting."
+  },
+  {
+    "keywords": ["covid", "corona"],
+    "response": "COVID-19 ringan ditangani dengan isolasi, istirahat, minum banyak cairan, dan obat pereda gejala. Jika sesak napas atau saturasi oksigen <94%, segera ke rumah sakit."
+  },
+  {
+    "keywords": ["osteoporosis", "tulang rapuh"],
+    "response": "Osteoporosis dicegah dan ditangani dengan konsumsi kalsium, vitamin D, olahraga beban ringan, serta obat sesuai resep dokter. Hindari rokok dan alkohol."
+  },
+  {
+    "keywords": ["katarak"],
+    "response": "Katarak menyebabkan lensa mata keruh. Pencegahan dengan kontrol gula darah dan penggunaan kacamata hitam. Pengobatan utama adalah operasi penggantian lensa."
+  },
+  {
+    "keywords": ["glaukoma"],
+    "response": "Glaukoma terjadi karena tekanan bola mata tinggi. Ditangani dengan obat tetes penurun tekanan mata atau operasi. Segera ke dokter mata jika penglihatan kabur."
+  },
+  {
+    "keywords": ["konjungtivitis", "mata merah"],
+    "response": "Konjungtivitis bisa disebabkan virus, bakteri, atau alergi. Jaga kebersihan tangan, hindari mengucek mata, dan gunakan obat tetes sesuai penyebab. Jika bernanah, butuh antibiotik."
+  },
+  {
+    "keywords": ["herpes zoster", "cacar ular"],
+    "response": "Herpes zoster ditangani dengan antivirus (jika dalam 72 jam sejak ruam muncul), pereda nyeri, dan menjaga kebersihan kulit. Komplikasi bisa dicegah dengan vaksinasi."
+  },
+  {
+    "keywords": ["psoriasis"],
+    "response": "Psoriasis ditangani dengan obat oles kortikosteroid, pelembap, terapi cahaya, atau obat sistemik sesuai resep dokter. Hindari stres dan jaga kulit tetap lembap."
+  },
+  {
+    "keywords": ["eksim", "dermatitis"],
+    "response": "Eksim ditangani dengan pelembap, menghindari sabun keras, dan obat oles kortikosteroid bila perlu. Hindari pemicu seperti debu, stres, atau makanan tertentu."
+  },
+  {
+    "keywords": ["skabies", "kudis"],
+    "response": "Skabies ditangani dengan obat oles antiskabies (permetrin) pada seluruh tubuh dan cuci semua pakaian/seprai. Semua anggota keluarga/sekitar pasien harus ikut diobati."
+  },
+  {
+    "keywords": ["keracunan obat"],
+    "response": "Jika curiga keracunan obat: jangan memaksakan muntah, segera ke IGD. Bawa obat yang diminum agar dokter dapat memberikan penanganan tepat."
+  },
+  {
+    "keywords": ["serangan jantung"],
+    "response": "Tanda serangan jantung: nyeri dada menjalar ke lengan/rahang, sesak, keringat dingin. Segera hubungi ambulans, dudukkan pasien, longgarkan pakaian, dan jika tersedia berikan aspirin (kecuali ada alergi)."
+  },
+  {
+    "keywords": ["aritmia", "jantung berdebar"],
+    "response": "Aritmia ditangani dengan pemeriksaan EKG. Jika ringan, cukup dengan relaksasi dan menghindari kafein. Bila pingsan atau sesak, segera ke IGD."
+  },
+  {
+    "keywords": ["gagal jantung"],
+    "response": "Gagal jantung memerlukan pengobatan dokter dengan obat diuretik, ACE inhibitor, atau beta blocker. Pasien harus batasi garam, cairan, dan rutin kontrol."
+  },
+  {
+    "keywords": ["ginjal batu"],
+    "response": "Batu ginjal kecil bisa keluar dengan banyak minum air. Nyeri diatasi dengan pereda nyeri. Batu besar butuh tindakan medis seperti ESWL atau operasi."
+  },
+  {
+    "keywords": ["infeksi saluran kemih", "ISK"],
+    "response": "ISK ditangani dengan minum banyak air dan antibiotik sesuai resep dokter. Pencegahan dengan menjaga kebersihan area intim dan tidak menahan buang air kecil."
+  },
+  {
+    "keywords": ["endometriosis"],
+    "response": "Endometriosis ditangani dengan obat pereda nyeri, terapi hormonal, atau operasi. Konsultasi ginekologi diperlukan untuk rencana jangka panjang."
+  },
+  {
+    "keywords": ["PCOS"],
+    "response": "PCOS (Polycystic Ovary Syndrome) dikelola dengan pola makan sehat, olahraga, obat pengatur hormon, dan pemantauan kesuburan. Konsultasi ke dokter kandungan sangat dianjurkan."
+  },
+  {
+    "keywords": ["menopause"],
+    "response": "Menopause normal terjadi pada wanita usia 45–55 tahun. Gejala bisa diredakan dengan terapi hormon, olahraga, pola makan sehat, dan manajemen stres."
+  },
+  {
+    "keywords": ["hipotiroid"],
+    "response": "Hipotiroid ditangani dengan terapi pengganti hormon (levothyroxine). Pasien harus kontrol rutin dan meminum obat setiap hari sesuai resep."
+  },
+  {
+    "keywords": ["hipertiroid"],
+    "response": "Hipertiroid ditangani dengan obat antitiroid, beta blocker, atau tindakan medis seperti operasi/terapi radioaktif. Kontrol rutin sangat penting."
+  },
+  {
+    "keywords": ["epilepsi", "ayan"],
+    "response": "Epilepsi ditangani dengan obat antikejang sesuai resep dokter. Saat serangan, jangan menahan tubuh pasien, miringkan kepala, dan pastikan jalan napas aman."
+  },
+  {
+    "keywords": ["autisme"],
+    "response": "Autisme bukan penyakit, tapi kondisi perkembangan. Penanganan melalui terapi wicara, okupasi, perilaku, serta dukungan keluarga sangat penting."
+  }
+]
